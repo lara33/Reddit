@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.0'
-gem 'devise', '~> 4.3'
+gem 'devise', '~> 4.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 #投票的gem
